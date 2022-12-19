@@ -41,7 +41,9 @@ Step 7 — Activate Virtual Environment
 
     source my_env_weather/bin/activate
 
-#Your command prompt will now be prefixed with the name of your environment:
+Step 8 — Test Virtual Environment
+
+Your command prompt will now be prefixed with the name of your environment:
 
     (my_env_weather) user@ubuntu:~/environments$ python
     
@@ -56,7 +58,6 @@ Quit the Python interpreter:
     >>> quit()
 
 Then exit the virtual environment:
-
 
     (my_env_weather) user@ubuntu:~/environments$ deactivate
 
